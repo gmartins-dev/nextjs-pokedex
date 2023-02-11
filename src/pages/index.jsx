@@ -16,9 +16,7 @@ export default function Home({ apiData }) {
 
   return (
     <Layout title={'Pokédex'}>
-      <section
-        className='pokemon-gallery'
-      >
+      <section className='pokemon-gallery'>
         {pokemon.results.map((pokemonName, index) =>
           index + offset <= 150 ? (
             <PokemonCard

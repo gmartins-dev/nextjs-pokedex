@@ -7,7 +7,10 @@ const Layout = ({ children, title }) => {
     <>
       <Head>
         <title>{title}</title>
-        <meta name='description' content='Pokedex - First Generation Pokemons List' />
+        <meta
+          name='description'
+          content='Pokedex - First Generation Pokemons List'
+        />
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
@@ -23,6 +26,10 @@ const Layout = ({ children, title }) => {
           </span>
           {title}
         </h1>
+        <h3 className='header-subtitle'>
+          This Pokédex contains all 151 Pokémons of the first generation,
+          released between 1996 and 1999.
+        </h3>
       </header>
 
       <main className='main'>{children}</main>
