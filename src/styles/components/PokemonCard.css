@@ -1,0 +1,13 @@
+/* PokemonCard COMPONENT */
+
+.card {
+  @apply relative flex flex-col items-center justify-center p-5 rounded bg-slate-200 text-slate-900 h-72;
+}
+
+.card-index {
+  @apply absolute top-0 text-5xl font-bold text-slate-300 right-3;
+}
+
+.card-title {
+  @apply text-2xl font-semibold tracking-wider uppercase;
+}

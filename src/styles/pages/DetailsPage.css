@@ -1,0 +1,33 @@
+/* POKEMON DETAILS PAGE */
+
+.pokemon-details-name {
+  @apply px-2 py-1 rounded bg-slate-700;
+}
+
+.pokemon-details-stats {
+  @apply p-1 my-2 rounded bg-slate-700;
+}
+
+.pokemon-details-stats-bar {
+  @apply max-w-full px-2 rounded text-slate-900 opacity-80 bg-slate-300;
+}
+
+.pokemon-details-poster {
+  @apply flex flex-col items-center justify-center;
+}
+
+.pokemon-details-attributes {
+  @apply p-5 mx-2 rounded bg-slate-900;
+}
+
+.pokemon-details-types {
+  @apply flex gap-5;
+}
+
+.pokemon-details-footer {
+  @apply flex justify-center gap-5 mt-10;
+}
+
+.pokemon-details-button {
+  @apply px-2 py-1 rounded bg-slate-800;
+}

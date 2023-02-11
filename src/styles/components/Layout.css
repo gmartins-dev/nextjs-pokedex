@@ -1,0 +1,17 @@
+/* LAYOUT COMPONENT */
+
+.header {
+  @apply py-10 mb-10 bg-slate-900;
+}
+
+.header-title {
+  @apply text-6xl font-semibold text-center text-[#FFCC01];
+}
+
+.main {
+  @apply container mx-auto;
+}
+
+.footer {
+  @apply flex items-center justify-center mt-10;
+}
