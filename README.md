@@ -64,7 +64,7 @@ This project was developed with the following technologies:
 <img width="600" style="border-radius: 5px" height="100%" src="public/demos/mobile-home.png" alt="">
 </kbd>
 <kbd>
-<img width="600" style="border-radius: 5px" height="100%" src="public/demos/mobile-details.png" alt="">
+<img width="100%" style="border-radius: 5px" height="100%" src="public/demos/mobile-details.png" alt="">
 </kbd>
 </p>
 
