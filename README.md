@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 
   <img  align="center"  alt="JavaScript"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> **JavaScript**
 
-  <img  align="center"  alt="Next.js"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> **Next.js*
+  <img  align="center"  alt="Next.js"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> **Next.js**
 
   <img  align="center"  alt="React"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React**
 
