@@ -55,16 +55,16 @@ This project was developed with the following technologies:
 <img width="100%" style="border-radius: 5px" height="70%" src="public/demos/desktop-home.png" alt="">
 </kbd>
   <kbd>
-<img width="100%" style="border-radius: 5px" height="70%" src="public/demos/desktop-details" alt="">
+<img width="100%" style="border-radius: 5px" height="70%" src="public/demos/desktop-details.png" alt="">
 </kbd>
 </p>
   <h5 align="center">📱 Mobile:</h5>
 <p  align="center">
 <kbd>
-<img width="600" style="border-radius: 5px" height="900" src="public/demos/mobile-home.png" alt="">
+<img width="600" style="border-radius: 5px" height="100%" src="public/demos/mobile-home.png" alt="">
 </kbd>
 <kbd>
-<img width="600" style="border-radius: 5px" height="900" src="public/demos/mobile-details.png" alt="">
+<img width="600" style="border-radius: 5px" height="100%" src="public/demos/mobile-details.png" alt="">
 </kbd>
 </p>
 
