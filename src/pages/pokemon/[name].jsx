@@ -56,7 +56,7 @@ const PokemonDetails = ({ pokemon }) => {
           <Link href='/'>◀️BACK</Link>
         </button>
       </footer>
-      
+
     </Layout>
   )
 }
@@ -75,5 +75,6 @@ export async function getServerSideProps(context) {
   }
 }
 
+// SSR - Server-Side Rendering
 //https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props
 //https://nextjs.org/docs/routing/dynamic-routes
